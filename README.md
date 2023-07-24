@@ -18,7 +18,7 @@ web
 	</style>
 </head>
 <body>
-	<a href="profil.php">Klik Disini</a>
+	<a href="web_profil.php">Klik Disini</a>
 
 </body>
 </html>
